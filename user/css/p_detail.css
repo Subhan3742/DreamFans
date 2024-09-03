@@ -1,0 +1,14 @@
+
+    input{
+    width: 100px;
+    
+    }
+    
+    @media (min-width: 600px) {
+    h2{
+    padding-top: 100px;
+    
+    }
+    
+    
+    }
